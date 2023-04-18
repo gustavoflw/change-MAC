@@ -10,7 +10,7 @@
 ---
 ### Router with open source firmware (TESTED)
 - [List of supported OpenWrt devices](https://openwrt.org/supported_devices)
-- [OpenWrt for TP-Link TL-WR841ND](https://openwrt.org/toh/tp-link/tl-wr841nd)
+- [Get OpenWrt firmware for TP-Link TL-WR841ND](https://openwrt.org/toh/tp-link/tl-wr841nd)
 - Once you have the custom firmware
     - Activate SSH from the web interface
         - Router configuration page (default 192.168.1.1) --> System --> administration --> Enable SSH on LAN
